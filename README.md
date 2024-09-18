@@ -27,7 +27,7 @@ This C++ program sets up a basic structure for a TypeScript Express application.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shovan04/ExpressTs/blob/main/README.md <project name>
+   git clone https://github.com/shovan04/ExpressTs.git <project name>
    cd <project name>
    ```
 
